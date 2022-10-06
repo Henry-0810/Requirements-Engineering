@@ -1,0 +1,10 @@
+C:\Users\t00229172\source\repos\NBA ticket retail\bin\Debug\NBA ticket retail.exe.config
+C:\Users\t00229172\source\repos\NBA ticket retail\bin\Debug\NBA ticket retail.exe
+C:\Users\t00229172\source\repos\NBA ticket retail\bin\Debug\NBA ticket retail.pdb
+C:\Users\t00229172\source\repos\NBA ticket retail\obj\Debug\NBA ticket retail.csproj.AssemblyReference.cache
+C:\Users\t00229172\source\repos\NBA ticket retail\obj\Debug\NBA_ticket_retail.frmMainMenu.resources
+C:\Users\t00229172\source\repos\NBA ticket retail\obj\Debug\NBA_ticket_retail.Properties.Resources.resources
+C:\Users\t00229172\source\repos\NBA ticket retail\obj\Debug\NBA ticket retail.csproj.GenerateResource.cache
+C:\Users\t00229172\source\repos\NBA ticket retail\obj\Debug\NBA ticket retail.csproj.CoreCompileInputs.cache
+C:\Users\t00229172\source\repos\NBA ticket retail\obj\Debug\NBA ticket retail.exe
+C:\Users\t00229172\source\repos\NBA ticket retail\obj\Debug\NBA ticket retail.pdb
